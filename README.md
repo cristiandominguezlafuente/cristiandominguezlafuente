@@ -1,12 +1,8 @@
 <h1>Hola 👋 soy Cristian Ddomínguez Lafuente</h1>
 <br>
 <h2>Sobre mi 😃</h2>
-<p><em>Técnico en Sistemas Microinformáticos y Redes</em></p>
-<p> <em>📝 Roles en el ámbito:</em> Líderaje, autoconfianza, comunicación, orientación estratégica, pensamiento analítico</p>
+<p><strong>Técnico en Sistemas Microinformáticos y Redes</strong></p>
+<p>📫Contacto: <a href="dominguezlafuentecristian@fpllefia.com">dominguezlafuentecristian@fpllefia.com</a></p>
+<p>📝<strong>Roles en el ámbito:</strong><em> Líderaje, autoconfianza, comunicación, orientación estratégica, pensamiento analítico</em></p>
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html"/>
-  </a>
-</p>
-<br>
+<img src="https://skillicons.dev/icons?i=css,html"/>
