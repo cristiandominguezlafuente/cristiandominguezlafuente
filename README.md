@@ -1,4 +1,4 @@
-<h1>Hola 👋 soy Cristian Ddomínguez Lafuente</h1>
+<h1>Hola 👋 soy Cristian Domínguez Lafuente</h1>
 <br>
 <h2>Sobre mi 😃</h2>
 <p><strong>Técnico en Sistemas Microinformáticos y Redes</strong></p>
